@@ -1,8 +1,9 @@
-# Olá, eu sou o Renan!
-- Estudante de Desenvolvimento de Sistemas
-- Focado em Python, HTML e CSS
-- Preparando-se para o mercado de tecnologia
-- Contato: renantorres1211@gmail.com
+# Olá, eu sou o Renan! 👋
+
+- 🎓 Estudante de Desenvolvimento de Sistemas
+- 💻 Focado em Python, HTML e CSS
+- 🚀 Desenvolvendo projetos e aprendendo novas tecnologias
+- 🎯 Em constante evolução na área de tecnologia
 
 - ## Sobre mim
 - Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
